@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/round_donut_small_black_24"
+            android:title="Donut" />
+        <item
+            android:id="@+id/nav_wallet"
+            android:icon="@drawable/round_explore_black_24"
+            android:title="Explore" />
+        <item
+            android:id="@+id/nav_offer"
+            android:icon="@drawable/round_favorite_black_24"
+            android:title="Favorites" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/round_fingerprint_black_24"
+            android:title="Fingerprint" />
+    </group>
+</menu>
